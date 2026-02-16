@@ -1,0 +1,10 @@
+[project]
+name = "introduction-snake"
+version = "0.1.0"
+description = "simple snake game to use as introduction to python"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupytext>=1.19.1",
+]
